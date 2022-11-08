@@ -1,0 +1,11 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/jsonrpsee_types-ac2520d11b729a54.rmeta: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/params.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/request.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/response.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/error.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libjsonrpsee_types-ac2520d11b729a54.rlib: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/params.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/request.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/response.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/error.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/jsonrpsee_types-ac2520d11b729a54.d: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/params.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/request.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/response.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/error.rs
+
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/lib.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/params.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/request.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/response.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpsee-types-0.15.1/src/error.rs:

@@ -1,0 +1,1 @@
+Running: "/usr/bin/protoc" "--include_imports" "--include_source_info" "-o" "/tmp/prost-buildjwQ93t/prost-descriptor-set" "-I" "src/schema" "src/schema/api.v1.proto"

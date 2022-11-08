@@ -1,0 +1,11 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/pallet_grandpa-3631af8cbe5580b5.rmeta: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/default_weights.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/equivocation.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations/v4.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libpallet_grandpa-3631af8cbe5580b5.rlib: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/default_weights.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/equivocation.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations/v4.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/pallet_grandpa-3631af8cbe5580b5.d: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/default_weights.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/equivocation.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations/v4.rs
+
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/lib.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/default_weights.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/equivocation.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/frame/grandpa/src/migrations/v4.rs:

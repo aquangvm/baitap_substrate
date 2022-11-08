@@ -1,0 +1,10 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/sp_consensus-1cebe202d8512e3a.rmeta: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libsp_consensus-1cebe202d8512e3a.rlib: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/sp_consensus-1cebe202d8512e3a.d: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs
+
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/lib.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/block_validation.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/error.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/consensus/common/src/select_chain.rs:

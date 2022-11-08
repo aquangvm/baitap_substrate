@@ -1,0 +1,33 @@
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-o" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/lz4.o" "-c" "liblz4/lib/lz4.c"
+exit status: 0
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-o" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/lz4frame.o" "-c" "liblz4/lib/lz4frame.c"
+exit status: 0
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-o" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/lz4hc.o" "-c" "liblz4/lib/lz4hc.c"
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-o" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/xxhash.o" "-c" "liblz4/lib/xxhash.c"
+exit status: 0
+exit status: 0
+AR_x86_64-unknown-linux-gnu = None
+AR_x86_64_unknown_linux_gnu = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4.a" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/lz4.o" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/lz4frame.o" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/lz4hc.o" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4/lib/xxhash.o"
+exit status: 0
+running: "ar" "s" "/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/liblz4.a"
+exit status: 0
+cargo:rustc-link-lib=static=lz4
+cargo:rustc-link-search=native=/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out
+cargo:root=/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out
+cargo:include=/home/quang/substrate/substrate-node-template/target/release/build/lz4-sys-1287ceb0b7c34d6e/out/include

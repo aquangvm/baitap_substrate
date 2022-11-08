@@ -1,0 +1,11 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/sc_telemetry-66161a3e8fafe2fa.rmeta: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libsc_telemetry-66161a3e8fafe2fa.rlib: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/sc_telemetry-66161a3e8fafe2fa.d: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs
+
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/lib.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/endpoints.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/error.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/node.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/telemetry/src/transport.rs:

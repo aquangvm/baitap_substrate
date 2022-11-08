@@ -1,0 +1,1 @@
+{"rustc":15234846723159686366,"features":"","target":0,"profile":0,"path":0,"deps":[[521072703128045091,"build_script_build",false,18267335706459202253]],"local":[{"RerunIfChanged":{"output":"wasm32-unknown-unknown/release/build/futures-channel-928a3b6be22090ab/output","paths":["no_atomic_cas.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

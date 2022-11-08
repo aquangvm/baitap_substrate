@@ -1,0 +1,12 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/cpp_demangle-9bf0576a2e9415c8.rmeta: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/logging.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/ast.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/index_str.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/subs.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libcpp_demangle-9bf0576a2e9415c8.rlib: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/logging.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/ast.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/index_str.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/subs.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/cpp_demangle-9bf0576a2e9415c8.d: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/logging.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/ast.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/index_str.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/subs.rs
+
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/lib.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/logging.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/ast.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/error.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/index_str.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/cpp_demangle-0.3.5/src/subs.rs:

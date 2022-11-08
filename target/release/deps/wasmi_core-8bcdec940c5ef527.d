@@ -1,0 +1,12 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/wasmi_core-8bcdec940c5ef527.rmeta: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libwasmi_core-8bcdec940c5ef527.rlib: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/wasmi_core-8bcdec940c5ef527.d: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs
+
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/lib.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/host_error.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/nan_preserving_float.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/trap.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/untyped.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmi_core-0.2.1/src/value.rs:

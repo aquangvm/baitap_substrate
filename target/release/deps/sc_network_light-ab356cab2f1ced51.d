@@ -1,0 +1,13 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/sc_network_light-ab356cab2f1ced51.rmeta: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs /home/quang/substrate/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libsc_network_light-ab356cab2f1ced51.rlib: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs /home/quang/substrate/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/sc_network_light-ab356cab2f1ced51.d: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs /home/quang/substrate/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs
+
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/lib.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/light_client_requests/handler.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/client/network/light/src/schema.rs:
+/home/quang/substrate/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out/api.v1.light.rs:
+
+# env-dep:OUT_DIR=/home/quang/substrate/substrate-node-template/target/release/build/sc-network-light-52ddd636b9c4168e/out

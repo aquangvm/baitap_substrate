@@ -1,0 +1,10 @@
+/home/quang/substrate/substrate-node-template/target/release/wbuild/node-template-runtime/target/release/deps/substrate_wasm_builder-c7c47f250e173b9c.rmeta: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/builder.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/prerequisites.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/wasm_project.rs
+
+/home/quang/substrate/substrate-node-template/target/release/wbuild/node-template-runtime/target/release/deps/libsubstrate_wasm_builder-c7c47f250e173b9c.rlib: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/builder.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/prerequisites.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/wasm_project.rs
+
+/home/quang/substrate/substrate-node-template/target/release/wbuild/node-template-runtime/target/release/deps/substrate_wasm_builder-c7c47f250e173b9c.d: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/builder.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/prerequisites.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/wasm_project.rs
+
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/lib.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/builder.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/prerequisites.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/utils/wasm-builder/src/wasm_project.rs:

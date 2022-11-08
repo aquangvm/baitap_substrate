@@ -1,0 +1,14 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/ss58_registry-2cd7076e47cdc845.rmeta: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/address_format.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/registry.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/token.rs /home/quang/substrate/substrate-node-template/target/release/build/ss58-registry-57efaa3d336c8d12/out/registry_gen.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libss58_registry-2cd7076e47cdc845.rlib: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/address_format.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/registry.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/token.rs /home/quang/substrate/substrate-node-template/target/release/build/ss58-registry-57efaa3d336c8d12/out/registry_gen.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/ss58_registry-2cd7076e47cdc845.d: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/address_format.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/error.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/registry.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/token.rs /home/quang/substrate/substrate-node-template/target/release/build/ss58-registry-57efaa3d336c8d12/out/registry_gen.rs
+
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/lib.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/address_format.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/error.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/registry.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/ss58-registry-1.33.0/src/token.rs:
+/home/quang/substrate/substrate-node-template/target/release/build/ss58-registry-57efaa3d336c8d12/out/registry_gen.rs:
+
+# env-dep:OUT_DIR=/home/quang/substrate/substrate-node-template/target/release/build/ss58-registry-57efaa3d336c8d12/out

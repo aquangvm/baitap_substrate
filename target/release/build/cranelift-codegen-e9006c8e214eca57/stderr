@@ -1,0 +1,13 @@
+Writing generated file: /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/settings.rs
+Writing generated file: /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/types.rs
+Writing generated file: /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/opcodes.rs
+Writing generated file: /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/clif.isle
+Writing generated file: /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/inst_builder.rs
+Writing generated file: /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/settings-x86.rs
+Rebuilding /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/isle_x64.rs
+Writing ISLE-generated Rust code to /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/isle_x64.rs
+Rebuilding /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/isle_aarch64.rs
+Writing ISLE-generated Rust code to /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/isle_aarch64.rs
+Rebuilding /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/isle_s390x.rs
+Writing ISLE-generated Rust code to /home/quang/substrate/substrate-node-template/target/release/build/cranelift-codegen-e9006c8e214eca57/out/isle_s390x.rs
+fatal: not a git repository (or any of the parent directories): .git

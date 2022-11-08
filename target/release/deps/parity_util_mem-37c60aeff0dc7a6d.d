@@ -1,0 +1,11 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/parity_util_mem-37c60aeff0dc7a6d.rmeta: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/allocators.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/malloc_size.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/primitives_impls.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/memory_stats_noop.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libparity_util_mem-37c60aeff0dc7a6d.rlib: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/allocators.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/malloc_size.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/primitives_impls.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/memory_stats_noop.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/parity_util_mem-37c60aeff0dc7a6d.d: /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/lib.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/allocators.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/malloc_size.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/primitives_impls.rs /home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/memory_stats_noop.rs
+
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/lib.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/allocators.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/malloc_size.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/primitives_impls.rs:
+/home/quang/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.12.0/src/memory_stats_noop.rs:

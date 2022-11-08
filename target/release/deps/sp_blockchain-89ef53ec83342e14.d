@@ -1,0 +1,10 @@
+/home/quang/substrate/substrate-node-template/target/release/deps/sp_blockchain-89ef53ec83342e14.rmeta: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/backend.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/header_metadata.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/libsp_blockchain-89ef53ec83342e14.rlib: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/backend.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/header_metadata.rs
+
+/home/quang/substrate/substrate-node-template/target/release/deps/sp_blockchain-89ef53ec83342e14.d: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/backend.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/error.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/header_metadata.rs
+
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/lib.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/backend.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/error.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/blockchain/src/header_metadata.rs:

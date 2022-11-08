@@ -1,0 +1,9 @@
+/home/quang/substrate/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/sp_externalities-69f053671d661ed0.rmeta: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/extensions.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/scope_limited.rs
+
+/home/quang/substrate/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libsp_externalities-69f053671d661ed0.rlib: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/extensions.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/scope_limited.rs
+
+/home/quang/substrate/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/sp_externalities-69f053671d661ed0.d: /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/lib.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/extensions.rs /home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/scope_limited.rs
+
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/lib.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/extensions.rs:
+/home/quang/.cargo/git/checkouts/substrate-7e08433d4c370a21/7a4e516/primitives/externalities/src/scope_limited.rs:
