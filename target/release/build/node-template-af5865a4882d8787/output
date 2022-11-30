@@ -1,4 +1,4 @@
-cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-378a3e5ae41
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-6f7b0fe0393
 cargo:rerun-if-changed=/home/quang/substrate/substrate-node-template/.git/HEAD
 cargo:rerun-if-changed=/home/quang/substrate/substrate-node-template/.git/refs/heads/main
 
