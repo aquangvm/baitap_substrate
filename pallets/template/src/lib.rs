@@ -100,15 +100,11 @@ pub mod pallet {
 			Ok(())
 		}
 
-
 		#[pallet::weight(10_000 + T::DbWeight::get().writes(1).ref_time())]
 		pub fn delete_number(origin: OriginFor<T>) -> DispatchResult {
-			
 			let who = ensure_signed(origin)?;
-
 			// Update storage.
 			<Number<T>>::insert(who.clone(), 0);
-
 			// Emit an event.
 			Self::deposit_event(Event::SomethingStored(0, who));
 			// Return a successful DispatchResultWithPostInfo
